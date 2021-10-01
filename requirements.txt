@@ -2,7 +2,6 @@ discord.py
 asyncio
 openpyxl
 youtube_dl
-discord.ext
 pynacl
 selenium
 beautifulsoup4
